@@ -446,6 +446,7 @@ body {
   display: flex;
   align-items: center;
   margin-bottom: 35px;
+  margin-left: 37px;
   letter-spacing: 0.05em;
   cursor: pointer;
   transition: var(--animation-transition);
